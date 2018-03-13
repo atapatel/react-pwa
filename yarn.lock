@@ -7977,9 +7977,9 @@ wordwrap@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-1.0.0.tgz#27584810891456a4171c8d0226441ade90cbcaeb"
 
-workbox-sw@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/workbox-sw/-/workbox-sw-2.1.0.tgz#605f50ce6ac5857114484b824b24d4454d351895"
+workbox-sw@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/workbox-sw/-/workbox-sw-3.0.0.tgz#3380c95007dfd1e18e4ff11a31ac64d124c8e1f7"
 
 worker-farm@^1.4.1:
   version "1.5.0"
