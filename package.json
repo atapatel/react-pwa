@@ -54,7 +54,7 @@
     "mocha": "^4.0.0",
     "moment": "^2.18.1",
     "multi-loader": "^0.1.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.9.0",
     "nodemon": "^1.12.0",
     "postcss-loader": "^2.0.6",
     "postcss-scss": "^1.0.2",
