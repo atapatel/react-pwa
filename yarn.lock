@@ -3607,7 +3607,7 @@ image-size@^0.3.5:
   version "0.3.5"
   resolved "https://registry.yarnpkg.com/image-size/-/image-size-0.3.5.tgz#83240eab2fb5b00b04aab8c74b0471e9cba7ad8c"
 
-imagemin-gifsicle@^5.1.0, imagemin-gifsicle@^5.2.0:
+imagemin-gifsicle@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/imagemin-gifsicle/-/imagemin-gifsicle-5.2.0.tgz#3781524c457612ef04916af34241a2b42bfcb40a"
   dependencies:
@@ -3631,7 +3631,7 @@ imagemin-mozjpeg@^6.0.0:
     is-jpg "^1.0.0"
     mozjpeg "^4.0.0"
 
-imagemin-optipng@^5.2.0, imagemin-optipng@^5.2.1:
+imagemin-optipng@^5.2.1:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/imagemin-optipng/-/imagemin-optipng-5.2.1.tgz#d22da412c09f5ff00a4339960b98a88b1dbe8695"
   dependencies:
@@ -3639,15 +3639,7 @@ imagemin-optipng@^5.2.0, imagemin-optipng@^5.2.1:
     is-png "^1.0.0"
     optipng-bin "^3.0.0"
 
-imagemin-pngquant@^5.0.0:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/imagemin-pngquant/-/imagemin-pngquant-5.0.1.tgz#d8a329da553afa226b11ce62debe0b7e37b439e6"
-  dependencies:
-    exec-buffer "^3.0.0"
-    is-png "^1.0.0"
-    pngquant-bin "^3.0.0"
-
-imagemin-svgo@^5.2.0, imagemin-svgo@^5.2.2:
+imagemin-svgo@^5.2.2:
   version "5.2.2"
   resolved "https://registry.yarnpkg.com/imagemin-svgo/-/imagemin-svgo-5.2.2.tgz#501699f5789730a57922b8736ea15c53f7b55838"
   dependencies:
@@ -3662,7 +3654,7 @@ imagemin-webp@^4.0.0:
     exec-buffer "^3.0.0"
     is-cwebp-readable "^1.0.0"
 
-imagemin@^5.2.0, imagemin@^5.3.1:
+imagemin@^5.3.1:
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/imagemin/-/imagemin-5.3.1.tgz#f19c2eee1e71ba6c6558c515f9fc96680189a6d4"
   dependencies:
@@ -3673,17 +3665,11 @@ imagemin@^5.2.0, imagemin@^5.3.1:
     pify "^2.3.0"
     replace-ext "^1.0.0"
 
-img-loader@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/img-loader/-/img-loader-2.0.0.tgz#583740b3e2a38aeba5435c7dd530be9ce7454fd9"
+img-loader@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/img-loader/-/img-loader-3.0.0.tgz#1543ced809b1ec9b4d5e77d2584159282f1c4dd6"
   dependencies:
-    imagemin "^5.2.0"
-    imagemin-gifsicle "^5.1.0"
-    imagemin-mozjpeg "^6.0.0"
-    imagemin-optipng "^5.2.0"
-    imagemin-pngquant "^5.0.0"
-    imagemin-svgo "^5.2.0"
-    loader-utils "^1.0.4"
+    loader-utils "^1.1.0"
 
 immutable@3.7.x:
   version "3.7.6"
@@ -4315,7 +4301,7 @@ loader-runner@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/loader-runner/-/loader-runner-2.3.0.tgz#f482aea82d543e07921700d5a46ef26fdac6b8a2"
 
-loader-utils@1.1.0, loader-utils@^1.0.1, loader-utils@^1.0.2, loader-utils@^1.0.4, loader-utils@^1.1.0:
+loader-utils@1.1.0, loader-utils@^1.0.1, loader-utils@^1.0.2, loader-utils@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-1.1.0.tgz#c98aef488bcceda2ffb5e2de646d6a754429f5cd"
   dependencies:
@@ -5496,14 +5482,6 @@ pluralize@^7.0.0:
 pngjs@^2.0.0:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/pngjs/-/pngjs-2.3.1.tgz#11d1e12b9cb64d63e30c143a330f4c1f567da85f"
-
-pngquant-bin@^3.0.0:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/pngquant-bin/-/pngquant-bin-3.1.1.tgz#d124d98a75a9487f40c1640b4dbfcbb2bd5a1fd1"
-  dependencies:
-    bin-build "^2.0.0"
-    bin-wrapper "^3.0.0"
-    logalot "^2.0.0"
 
 portfinder@^1.0.9:
   version "1.0.13"
