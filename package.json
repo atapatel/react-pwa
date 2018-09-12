@@ -49,7 +49,7 @@
     "imagemin-svgo": "^5.2.2",
     "img-loader": "^2.0.0",
     "isbot": "^2.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
     "memory-cache": "^0.2.0",
     "mocha": "^4.0.0",
     "moment": "^2.18.1",
