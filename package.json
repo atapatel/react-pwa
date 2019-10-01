@@ -73,7 +73,7 @@
     "react-test-renderer": "^16.0.0",
     "react-transform-hmr": "^1.0.4",
     "redux": "^3.7.2",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^8.0.0",
     "serve-favicon": "^2.4.3",
     "strict-uri-encode": "^2.0.0",
     "style-loader": "^0.19.0",
