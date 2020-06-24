@@ -4093,9 +4093,9 @@ isarray@1.0.0, isarray@^1.0.0, isarray@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-1.0.0.tgz#bb935d48582cba168c06834957a54a3e07124f11"
 
-isbot@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/isbot/-/isbot-2.1.0.tgz#bdd83ea6f010d1a1bf221302f605d07f4b73b8bc"
+isbot@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/isbot/-/isbot-3.0.4.tgz#695d8eb7687368c291e90fba30ff3acd3cc0e066"
 
 isexe@^2.0.0:
   version "2.0.0"
