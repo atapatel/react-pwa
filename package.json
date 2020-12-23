@@ -48,7 +48,7 @@
     "imagemin-optipng": "^5.2.1",
     "imagemin-svgo": "^5.2.2",
     "img-loader": "^2.0.0",
-    "isbot": "^2.1.0",
+    "isbot": "^3.0.21",
     "lodash": "^4.17.4",
     "memory-cache": "^0.2.0",
     "mocha": "^4.0.0",
