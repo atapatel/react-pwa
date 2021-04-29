@@ -1,0 +1,55 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: eslint-plugin-react
+    versions:
+    - 7.22.0
+    - 7.23.0
+    - 7.23.1
+  - dependency-name: uglify-js
+    versions:
+    - 3.12.5
+    - 3.12.6
+    - 3.12.7
+    - 3.12.8
+    - 3.13.0
+    - 3.13.1
+    - 3.13.2
+    - 3.13.3
+  - dependency-name: workbox-sw
+    versions:
+    - 6.0.2
+    - 6.1.0
+    - 6.1.1
+    - 6.1.2
+  - dependency-name: mocha
+    versions:
+    - 8.2.1
+    - 8.3.0
+    - 8.3.1
+  - dependency-name: isbot
+    versions:
+    - 3.0.23
+    - 3.0.24
+    - 3.0.25
+  - dependency-name: lodash-es
+    versions:
+    - 4.17.20
+  - dependency-name: postcss-scss
+    versions:
+    - 3.0.4
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+  - dependency-name: imagemin-svgo
+    versions:
+    - 8.0.0
